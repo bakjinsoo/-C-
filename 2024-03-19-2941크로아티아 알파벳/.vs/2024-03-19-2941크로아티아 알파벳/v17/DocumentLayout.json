@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dahun\\Desktop\\\uCF54\uB529\uC5F0\uC2B5\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35ECE8BC-FB7E-424C-AD6D-A92E73A3B44E}|2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3.vcxproj|C:\\Users\\dahun\\Desktop\\\uCF54\uB529\uC5F0\uC2B5\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35ECE8BC-FB7E-424C-AD6D-A92E73A3B44E}|2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3.vcxproj|solutionrelative:2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2024-03-19-2941.cpp",
+              "DocumentMoniker": "C:\\Users\\dahun\\Desktop\\\uCF54\uB529\uC5F0\uC2B5\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941.cpp",
+              "RelativeDocumentMoniker": "2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941.cpp",
+              "ToolTip": "C:\\Users\\dahun\\Desktop\\\uCF54\uB529\uC5F0\uC2B5\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941.cpp",
+              "RelativeToolTip": "2024-03-19-2941\uD06C\uB85C\uC544\uD2F0\uC544 \uC54C\uD30C\uBCB3\\2024-03-19-2941.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T11:04:14.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
